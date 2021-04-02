@@ -20,8 +20,6 @@ Or in our case, the independent variables are a patients different medical attri
 
 ### Heart Disease Data Dictionary
 
-A data dictionary describes the data you're dealing with. Not all datasets come with them so this is where you may have to do your research or ask a **subject matter expert** (someone who knows about the data) for more.
-
 The following are the features we'll use to predict our target variable (heart disease or no heart disease).
 
 1. age - age in years 
