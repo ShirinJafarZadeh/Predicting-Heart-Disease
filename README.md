@@ -18,24 +18,6 @@ The original database contains 76 attributes, but here only 14 attributes will b
 
 Or in our case, the independent variables are a patients different medical attributes and the dependent variable is whether or not they have heart disease.
 
-## 3. Evaluation
-
-The evaluation metric is something you might define at the start of a project.
-
-Since machine learning is very experimental, you might say something like, 
-
-> If we can reach 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll pursure this project.
-
-The reason this is helpful is it provides a rough goal for a machine learning engineer or data scientist to work towards.
-
-However, due to the nature of experimentation, the evaluation metric may change over time.
-
-## 4. Features
-
-Features are different parts of the data. During this step, you'll want to start finding out what you can about the data.
-
-One of the most common ways to do this, is to create a **data dictionary**.
-
 ### Heart Disease Data Dictionary
 
 A data dictionary describes the data you're dealing with. Not all datasets come with them so this is where you may have to do your research or ask a **subject matter expert** (someone who knows about the data) for more.
