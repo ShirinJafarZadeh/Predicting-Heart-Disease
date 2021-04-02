@@ -6,6 +6,10 @@ In our case, the problem we will be exploring is **binary classification** (a sa
 
 This is because we're going to be using a number of differnet **features** (pieces of information) about a person to predict whether they have heart disease or not.
 
+In a statement,
+
+> Given clinical parameters about a patient, can we predict whether or not they have heart disease?
+
 ## 2. Data
 
 The original data came from the [Cleveland database](https://archive.ics.uci.edu/ml/datasets/heart+Disease) from UCI Machine Learning Repository.
